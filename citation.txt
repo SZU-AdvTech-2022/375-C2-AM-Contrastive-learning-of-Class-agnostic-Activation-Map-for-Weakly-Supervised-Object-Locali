@@ -1,0 +1,7 @@
+@inproceedings{REPO-376,
+    author = "Xie, Jinheng and Xiang, Jianfeng and Chen, Junliang and Hou, Xianxu and Zhao, Xiaodong and Shen, Linlin",
+    booktitle = "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+    pages = "979-988",
+    title = "{C2 AM: Contrastive learning of Class-agnostic Activation Map for Weakly Supervised Object Localization and Semantic Segmentation}",
+    year = "2022"
+}
